@@ -1,0 +1,166 @@
+{
+    "data": [
+      {
+        "english": {
+          "audio": "https://dut81ga67thve.cloudfront.net/9-English.mp3",
+          "regions": []
+        },
+        "eastSideKriol": {
+          "audio": "https://dut81ga67thve.cloudfront.net/16-East-Side-Kriol.mp3",
+          "regions": [
+            "katherine"
+          ]
+        },
+        "westSideKriol": {
+          "audio": "https://dut81ga67thve.cloudfront.net/17-West-Side-Kriol.mp3",
+          "regions": [
+            "katherine",
+            "victoriaDaly"
+          ]
+        },
+        "anindiliyakwa": {
+          "audio": "https://dut81ga67thve.cloudfront.net/14-Anindiliyakwa.mp3",
+          "regions": [
+            "eastArnhem"
+          ]
+        },
+        "yolnguMatha": {
+          "audio": "https://dut81ga67thve.cloudfront.net/10-Yolngu-Matha.mp3",
+          "regions": [
+            "eastArnhem",
+            "westArnhem"
+          ]
+        },
+        "burarra": {
+          "audio": "https://dut81ga67thve.cloudfront.net/11-Burarra.mp3",
+          "regions": [
+            "westArnhem"
+          ]
+        },
+        "ndjebbana": {
+          "audio": "https://dut81ga67thve.cloudfront.net/12-Ndjebbana.mp3",
+          "regions": [
+            "westArnhem"
+          ]
+        },
+        "kunwinjku": {
+          "audio": "https://dut81ga67thve.cloudfront.net/13-Kunwunjku.mp3",
+          "regions": [
+            "westArnhem"
+          ]
+        },
+        "maung": {
+          "audio": "https://dut81ga67thve.cloudfront.net/20-Maung.mp3",
+          "regions": [
+            "westArnhem"
+          ]
+        },
+        "modernTiwi": {
+          "audio": "https://dut81ga67thve.cloudfront.net/22-Modern-Tiwi.mp3",
+          "regions": [
+            "tiwiIslands"
+          ]
+        },
+        "murrinhPatha": {
+          "audio": "https://dut81ga67thve.cloudfront.net/23-Murrinh-Patha.mp3",
+          "regions": [
+            "victoriaDaly"
+          ]
+        },
+        "walpiri": {
+          "audio": "https://dut81ga67thve.cloudfront.net/28-Walpiri.mp3",
+          "regions": [
+            "centralBarkly"
+          ]
+        },
+        "anmatyerr": {
+          "audio": "https://dut81ga67thve.cloudfront.net/15-Anmatyerr.mp3",
+          "regions": [
+            "centralBarkly"
+          ]
+        },
+        "pitjantjatjara": {
+          "audio": "https://dut81ga67thve.cloudfront.net/26-Pitjantjatjara.mp3",
+          "regions": [
+            "macdonnell"
+          ]
+        },
+        "westernArranta": {
+          "audio": "https://dut81ga67thve.cloudfront.net/29-Western-Arranta.mp3",
+          "regions": [
+            "macdonnell"
+          ]
+        },
+        "pintubiLuritja": {
+          "audio": "https://dut81ga67thve.cloudfront.net/25-Pintubi-Luritja.mp3",
+          "regions": [
+            "macdonnell"
+          ]
+        },
+        "yumplatok": {
+          "audio": "https://dut81ga67thve.cloudfront.net/10.mp3",
+          "regions": []
+        },
+        "wikMungkan": {
+          "audio": "https://dut81ga67thve.cloudfront.net/30-Wik-Mungan.mp3",
+          "regions": [
+            "queensland"
+          ]
+        },
+        "kalawKawaYa": {
+          "audio": "https://dut81ga67thve.cloudfront.net/18-Kalaw-Kawa-Ya.mp3",
+          "regions": [
+            "queensland"
+          ]
+        },
+        "meriamMir": {
+          "audio": "https://dut81ga67thve.cloudfront.net/21-Meriam-Mir.mp3",
+          "regions": [
+            "queensland"
+          ]
+        },
+        "kimberleyKriol": {
+          "audio": "https://dut81ga67thve.cloudfront.net/19-Kimberley-Kriol.mp3",
+          "regions": [
+            "westernAustralia"
+          ]
+        },
+        "walmajarri": {
+          "audio": "https://dut81ga67thve.cloudfront.net/27-Walmajarri.mp3",
+          "regions": [
+            "westernAustralia"
+          ]
+        },
+        "nyikina": {
+          "audio": "https://dut81ga67thve.cloudfront.net/24-Nyikina.mp3",
+          "regions": [
+            "westernAustralia"
+          ]
+        },
+        "ngarinyman": {
+          "audio": null,
+          "regions": [
+            "katherine"
+          ]
+        },
+        "centralArrernte": {
+          "audio": "https://dut81ga67thve.cloudfront.net/lanugages/eastern-central-arrernte.mp3",
+          "regions": [
+            "centralBarkly"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "total": 1,
+        "count": 1,
+        "per_page": 100,
+        "current_page": 1,
+        "total_pages": 1,
+        "links": {
+  
+        }
+      }
+    }
+  }  
